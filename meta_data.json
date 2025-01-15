@@ -1,0 +1,14 @@
+{
+    "categories": {
+        "0": "media",
+        "1": "containers"
+    },
+    "demo_page": "https://chakor-plugin-demo-6.bubbleapps.io/version-test/animate_on_scroll",
+    "description": "The Animate on Scroll plugin for Bubble.io allows you to create engaging and interactive user experiences by adding animations that trigger as users scroll through your app. With this plugin, you can bring your content to life with smooth, eye-catching animations, such as fades, slides, zooms, or flips, enhancing the visual appeal and user engagement of your app.\n\n🔗 Demo Page:  https://chakor-plugin-demo-6.bubbleapps.io/version-test/animate_on_scroll\n\n\n\n🔗 Editor Link:  https://bubble.io/page?id=chakor-plugin-demo-6&test_plugin=1736942500092x355941360964993000_current&tab=Design&name=animate_on_scroll&type=page\n\n\n\nOur team is available to solve any problems or questions you may have, please open a thread on our support forum: https://forum.thechakor.com/t/plugin-issues\n\n",
+    "image": "//meta-q.cdn.bubble.io/f1736953527368x494042492479073600/DALL%C2%B7E%202025-01-15%2020.05.18%20-%20A%20creative%20logo%20for%20a%20plugin%20called%20%27Animate%20on%20Scroll.%27%20The%20design%20features%20a%20scroll%20bar%20icon%20transitioning%20into%20a%20dynamic%20animation%20effect%2C%20like%20spa.webp",
+    "license": "commercial",
+    "link": "https://forum.bubble.io/t/aos-animate-on-scroll-library/240994",
+    "name": "Animate on scroll",
+    "plugin_instructions": "Animate elements and repeating group items on your page.\n\n1. Make sure you have IDs activated\n\nSettings > Genereal > Expose the option to add an ID attribute to HTML elements\n\n2. Add ID to the elements you want to animate\n\n3. In workflow, add a trigger on page load then an AOS action to setup elements.\n\n4. You can setup multiple AOS action if you want different animations on the elements.\n\n\nTo animate repeating item, you should trigger the AOS action by checking if the repeating list loading is done.\n\n\nDEMO:\nhttps://pmplugins.bubbleapps.io/version-test\n\nDEMO EDITOR:\nhttps://bubble.io/page?name=index&id=pmplugins&tab=tabs-2\n",
+    "sa_node_version": 18
+}
